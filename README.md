@@ -4,7 +4,7 @@
 **Next Chapter** is a user-friendly and time-saving library management system designed to make book borrowing and management easier for everyone—from casual readers to frequent borrowers. This platform provides a clean UI and efficient tools to manage, search, and interact with books.
 
 ## 🔗 Live Website
-[Visit the Live Website](#) <!-- Replace with your actual deployed link -->
+[Visit the Live Website](https://job-portal-ba27b.web.app/) <!-- Replace with your actual deployed link -->
 
 ## 🚀 Key Features
 - 🔐 **Login Feature** – Secure login system for personalized access.
